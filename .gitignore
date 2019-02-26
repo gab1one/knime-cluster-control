@@ -1,0 +1,10 @@
+.bash*
+.eclipse/
+.java/
+.oracle*
+.ssh/
+.swt/
+artifacts.xml
+executor/
+p2/
+
